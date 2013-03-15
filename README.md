@@ -8,3 +8,11 @@ Author
 =======
 
 PayloadParser Extension was developed by James Lester. (http://twitter.com/infodel)
+
+Install
+=========
+
+PayloadParser.py added to Burps Extender tab.
+Text file(s) of Payloads. Currently compatible with FuzzDB (https://code.google.com/p/fuzzdb/) installed in “payloads” directory in burps root. 
+Jython Standalone .jar required and set in Burp Suite
+
